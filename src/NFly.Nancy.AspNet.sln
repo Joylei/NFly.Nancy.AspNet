@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFly.Nancy.AspNet", "NFly.Nancy.AspNet/NFly.Nancy.AspNet.csproj", "{F5CDEFC8-D862-4ABE-9B9F-D2ABD065809A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFly.Nancy.AspNet", "NFly.Nancy.AspNet\NFly.Nancy.AspNet.csproj", "{F5CDEFC8-D862-4ABE-9B9F-D2ABD065809A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFly.Nancy.AspNet.Demo", "NFly.Nancy.AspNet.Demo\NFly.Nancy.AspNet.Demo.csproj", "{E7CC9FFB-7CEE-46E1-B936-6CCF26323D69}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F5CDEFC8-D862-4ABE-9B9F-D2ABD065809A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5CDEFC8-D862-4ABE-9B9F-D2ABD065809A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5CDEFC8-D862-4ABE-9B9F-D2ABD065809A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7CC9FFB-7CEE-46E1-B936-6CCF26323D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7CC9FFB-7CEE-46E1-B936-6CCF26323D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7CC9FFB-7CEE-46E1-B936-6CCF26323D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7CC9FFB-7CEE-46E1-B936-6CCF26323D69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
