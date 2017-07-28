@@ -1,2 +1,5 @@
 # NFly.Nancy.AspNet
-Async streaming for NancyFx v1.4.4
+Enable async streaming for NancyFx v1.4.4
+
+## License
+MIT
